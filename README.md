@@ -1,6 +1,6 @@
 # Integración de Sistemas - Salud360
 
-1. **Nombre del estudiante:** [Tu Apellido y Nombre aquí]
+1. **Nombre del estudiante:** Esteban Carvajal
 2. **Descripción breve:** Solución mínima de integración para automatizar el flujo de registro de citas médicas confirmadas, comunicando sistemas a través de API REST, RabbitMQ y archivos CSV.
 3. **Tecnologías utilizadas:** 
    - Java 17
